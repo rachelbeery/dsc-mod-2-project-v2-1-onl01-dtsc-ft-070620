@@ -57,7 +57,7 @@ Questions we will be answering in this notebook:
 
 **By increasing the “Grade” of the home the home’s value steadily increases.**
 
-![](https://github.com/rachelbeery/dsc-mod-2-project-v2-1-onl01-dtsc-ft-070620/blob/master/Grade_home.png)
+![](https://github.com/rachelbeery/dsc-mod-2-project-v2-1-onl01-dtsc-ft-070620/blob/master/grade_b.png)
 
 **Homes with more bedrooms  have a shown higher home value when selling on the market.**
 
