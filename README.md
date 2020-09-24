@@ -74,3 +74,8 @@ Questions we will be answering in this notebook:
 **The condition of the home increases the sale price of the home. Homes with condition score of 3 to 5 are the most profitable.**
 
 ![](https://github.com/rachelbeery/dsc-mod-2-project-v2-1-onl01-dtsc-ft-070620/blob/master/condiiton.png)
+
+# Future Work
+
+1. With more time given, I would also like to utilize the latitude and longitude given in this dataset to make a Tableau map.
+2. I would additionally experiment more with different outlier removals including Cooks Distance.
