@@ -61,7 +61,7 @@ Questions we will be answering in this notebook:
 
 **Homes with more bedrooms  have a shown higher home value when selling on the market.**
 
-![]https://github.com/rachelbeery/dsc-mod-2-project-v2-1-onl01-dtsc-ft-070620/blob/master/bedroom_home.png
+![](https://github.com/rachelbeery/dsc-mod-2-project-v2-1-onl01-dtsc-ft-070620/blob/master/bedroom_home.png)
 
 **Houses with more bathrooms have higher value on the housing market.**
 
